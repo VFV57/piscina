@@ -1,0 +1,6 @@
+{
+  "name": "Piscina Cantillana - Control & Seguridad",
+  "description": "Aplicación de dosificación química, programación de bomba y protocolos de seguridad técnica para la piscina de 18 m³.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
